@@ -18,7 +18,7 @@
 1. **레포지토리 클론**
 
    ```bash
-   git clone https://github.com/Mugen-Houyou/nestjs-bulletin-board-1.git
+   git clone https://github.com/Mugen-Houyou/nestjs-practice-2.git
    cd <repository-directory>
    ```
 

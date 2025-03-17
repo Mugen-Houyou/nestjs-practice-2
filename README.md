@@ -18,7 +18,7 @@ This project is a backend service for a bulletin board application built using N
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Mugen-Houyou/nestjs-bulletin-board-1.git
+   git clone https://github.com/Mugen-Houyou/nestjs-practice-2.git
    cd <repository-directory>
    ```
 
